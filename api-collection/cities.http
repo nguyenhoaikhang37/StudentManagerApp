@@ -1,0 +1,6 @@
+
+# Cities
+
+# @name getAllCities
+
+GET http://js-post-api.herokuapp.com/api/cities

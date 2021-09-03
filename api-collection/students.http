@@ -1,0 +1,17 @@
+
+# Students
+
+# @name getAllStudents
+GET http://js-post-api.herokuapp.com/api/students?_page=1&_limit=10
+
+###
+
+# @name getStudentById
+GET http://js-post-api.herokuapp.com/api/students/1a90afd3-af05-42a5-88d5-a297d387f164
+
+###
+
+# @name addNewStudent
+POST http://js-post-api.herokuapp.com/api/students
+
+
